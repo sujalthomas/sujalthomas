@@ -18,7 +18,7 @@
 
 ## Connect With Me👋🏼
 
-<p align="left">  
+<p>  
 
 <a href="https://linkedin.com/in/sujal-thomas-tatipelli-b72120161/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
