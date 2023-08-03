@@ -1,5 +1,6 @@
 <h1 align="center"> Hi I'm Sujal Thomas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 </h1>
+
 <h3 align="center">I'm a Full Stack Software Engineer based in California, seeking exciting new opportunities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalthomas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sujalthomas" /> </p>
