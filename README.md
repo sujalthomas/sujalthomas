@@ -1,19 +1,28 @@
-<h1 align="center">Hi 👋, I'm Sujal Thomas</h1>
-<h3 align="center">I'm a Full Stack Software Engineer based in California, seeking exciting new opportunities.</h3>
+# Hi I'm Sujal Thomas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## I'm a Full Stack Software Engineer based in California, seeking exciting new opportunities.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalthomas&label=Profile%20views&color=0e75b6&style=flat" alt="sujalthomas" /> </p>
+  <tr>
+    <td valign="center">
+🔭 I’m currently working on Lynk cv-gen & Nightwatch (private repos)
+
+🌱 I’m currently learning **Cloud Architecture & DevOps, threejs**
+
+👯 I’m looking to collaborate on **various interesting projects.**
+
+👨‍💻 All of my projects are available at [www.sujalthomas.com](www.sujalthomas.com)
+
+📫 How to reach me **sujalt1811@gmail.com**      
+  </tr>
+
+![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
+
+
+
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on Lynk cv-gen & Nightwatch (private repos)
 
-- 🌱 I’m currently learning **Cloud Architecture & DevOps, threejs**
-
-- 👯 I’m looking to collaborate on **various interesting projects.**
-
-- 👨‍💻 All of my projects are available at [www.sujalthomas.com](www.sujalthomas.com)
-
-- 📫 How to reach me **sujalt1811@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
