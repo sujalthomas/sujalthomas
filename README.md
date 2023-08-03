@@ -2,7 +2,7 @@
 </h1>
 <h3 align="center">I'm a Full Stack Software Engineer based in California, seeking exciting new opportunities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalthomas&label=Profile%20views&color=0e75b6&style=flat" alt="sujalthomas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalthomas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sujalthomas" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -24,6 +24,13 @@
 
 </p>
 
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=0)](https://moon-svg.minung.dev)
+
+<a><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
+
+[![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujalthomas&theme=react-dark)](https://github.com/sujalthomas/github-readme-activity-graph)
+
+
 ## Languages & Tools 💻
 
 ### Ai
@@ -40,6 +47,19 @@
 
 <a><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"/></a>
 
+<a><img src=""/></a>
+
+
+
+<a><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a><img src=""/></a>
+<a><img src=""/></a>
+<a><img src=""/></a>
+<a><img src=""/></a>
+<a><img src=""/></a>
 <a><img src=""/></a>
 
 ### Design 🎨
