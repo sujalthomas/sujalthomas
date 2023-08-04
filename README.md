@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Lynk cv-gen & Nightwatch.** (private repos)
 - 🌱 I’m currently learning **Spanish, Cloud Architecture & DevOps.**
 - 👯 I’m looking to collaborate on **various interesting projects.**
-- 👨‍💻 My projects are available at [www.sujalthomas.com](www.sujalthomas.com) | scan QR ->
+- 👨‍💻 My projects are available at [www.sujalthomas.com](https://www.sujalthomas.com) | scan QR ->
 - 📫 How to reach me **sujalt1811@gmail.com**
 - 🗓 Schedule a meeting **https://calendly.com/sujalthomas1234/30min**
 
