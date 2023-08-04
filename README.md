@@ -13,6 +13,7 @@
 - 👯 I’m looking to collaborate on **various interesting projects.**
 - 👨‍💻 My projects are available at [www.sujalthomas.com](www.sujalthomas.com) | scan QR ->
 - 📫 How to reach me **sujalt1811@gmail.com**
+- 🗓 Schedule a meeting with me **https://calendly.com/sujalthomas1234/30min**
 
 ## Connect With Me👋🏼
 
