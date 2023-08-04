@@ -39,7 +39,7 @@
 </td>
 <td style="border: none;">
 
-<h2 align="right"><img src="https://github.com/sujalthomas/sujalthomas/assets/42236789/85420bcb-0580-4a13-873c-7a44cdc34565" width="700px"></h2>
+<h2 align="right"><img src="https://github.com/sujalthomas/sujalthomas/assets/42236789/85420bcb-0580-4a13-873c-7a44cdc34565" width="650px"></h2>
 
 </td>
 </tr>
