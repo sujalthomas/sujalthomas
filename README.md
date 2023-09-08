@@ -15,6 +15,10 @@
 - 📫 How to reach me **sujalt1811@gmail.com**
 - 🗓 Schedule a meeting **https://calendly.com/sujalthomas1234/30min**
 
+### You can find my latest project here!
+
+- [https://lynk.up.railway.app/](https://lynk.up.railway.app/) 🔥 
+
 ## Connect With Me👋🏼
 
 <p align = "left">  
