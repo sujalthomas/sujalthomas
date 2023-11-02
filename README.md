@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujalthomas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sujalthomas" /> </p>
 
-- 🔭 I’m currently working on **Lynk cv-gen & Nightwatch.** (private repos)
+- 🔭 I’m currently working on **LuvSync & Nightwatch.** (private repos)
 - 🌱 I’m currently learning **Spanish, Cloud Architecture & DevOps.**
 - 👯 I’m looking to collaborate on **various interesting projects.**
 - 👨‍💻 My projects are available at [www.sujalthomas.com](https://www.sujalthomas.com) | scan QR ->
@@ -17,7 +17,7 @@
 
 ### You can find my latest project here!
 
-- [https://lynk.up.railway.app/](https://lynk.up.railway.app/) 🔥 
+- [https://job-jolt.vercel.app/](https://job-jolt.vercel.app/) 🔥 
 
 ## Connect With Me👋🏼
 
